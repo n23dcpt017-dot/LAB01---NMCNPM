@@ -1,24 +1,36 @@
-# Hello, my name is Huong Giang.  
+# Hello, my name is Vuong Thi Huong Giang.
 
-# I am currently a 3rd year student at the Academy of Posts and Telecommunications Technology.  
+# I am currently a 3rd-year student at the Academy of Posts and Telecommunications Technology. 
+
+# 
+
+# 🔹 Interests:
+
+# \- Software requirements and system analysis  
+
+# \- Web and mobile application development  
+
+# \- Artificial Intelligence and Machine Learning  
 
 # 
 
 # 🔹 Skills:
 
-# \- Basic modeling and retopology 
+# \- Programming languages: Python, Java, JavaScript, SQL  
 
-# \- Knowledge of 3D modeling related to Maya, Substance Painter, Marmoset, Unreal Engine, Zbrush 
+# \- Tools: Git, Visual Studio Code, Jira, MySQL  
+
+# \- Development process: Agile - Scrum, Waterfall  
 
 # 
 
 # 🔹 Goals:
 
-# \- To become a 3d environment and hard surface artist  
+# \- To become a professional software engineer  
 
-# \- To contribute high quality 3D animation and game projects  
+# \- To contribute to real-world software projects  
 
-# \- To keep learning about new skills and artistic updates to create more unique products
+# \- To keep learning about new technologies and trends in the IT industry  
 
 # 
 
